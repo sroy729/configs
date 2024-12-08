@@ -5,6 +5,7 @@ Need to install
 - git
 - openssh-server and openssh-client
 - gcc and g++
+- python env and virtualenv
 
 For GPU systems
 - cuda tookit

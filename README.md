@@ -3,6 +3,20 @@ Need to install
 - nvim
 - tmux
 - git
+- openssh-server and openssh-client
+- gcc and g++
+
+For GPU systems
+- cuda tookit
+- nsys and ncu
+- nvtop
+- 
+
+(optional)
+- remmina
+- keep the PC on even with lid off
+- setting up copilot in nvim
+- install (npm)[https://nodejs.org/en/download/package-manager]
 
 ## Configuring Nvim 
 

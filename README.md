@@ -35,3 +35,20 @@ config you system with your username and email id
 git config --global user.email "shubhamr.roy62@gmail.com"
 git config --global user.name "sroy729"
 ```
+
+## Installing Docker(include docker compose)
+refer to the link (dockerhub)[https://docs.docker.com/engine/install/ubuntu/]
+
+To make the docker run without sudo.
+Add your user to docker group
+```
+sudo usermod -aG docker $USER
+```
+Logout and back in or do the following
+```
+newgrp docker
+```
+
+For docker compose file it should be named `docker-compose.yml`
+
+

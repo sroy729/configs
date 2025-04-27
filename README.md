@@ -19,6 +19,12 @@ For GPU systems
 - setting up copilot in nvim
 - install (npm)[https://nodejs.org/en/download/package-manager]
 
+## Accidental deletion of `~/.bashrc`
+```
+cp /etc/skel/.bashrc ~/.bashrc
+```
+
+
 ## Configuring Nvim 
 
 ## Configuring tmux

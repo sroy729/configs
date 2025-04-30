@@ -26,8 +26,16 @@ cp /etc/skel/.bashrc ~/.bashrc
 
 
 ## Configuring Nvim 
+Use `install.sh` script provided.
+```
+./install.sh
+```
 
 ## Configuring tmux
+Use `install.sh` script provided.
+```
+./install.sh
+```
 
 ## Configuring git
 First generate a ssh key using the following command 
